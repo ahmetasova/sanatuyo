@@ -1,4 +1,10 @@
-SanaTüyo ekibi olarak kişisel gizliliğinize ve veri güvenliğinize en üst düzeyde önem veriyoruz. Bu politika, Google Play Store ve Apple App Store standartlarına tam uyumludur.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SanaTüyo Gizlilik Politikası</title>
+</head>
+<body>
+    <h1>SanaTüyo ekibi olarak kişisel gizliliğinize ve veri güvenliğinize en üst düzeyde önem veriyoruz. Bu politika, Google Play Store ve Apple App Store standartlarına tam uyumludur.
 
 1. Toplanan Veriler ve Kullanımı:
 Size özel bir deneyim sunabilmek amacıyla e-posta adresiniz, profil adınız, avatar tercihiniz, kaydettiğiniz tüyolar ve uygulama ayarlarınız Google Firebase altyapısında uçtan uca güvenle saklanır.
@@ -14,3 +20,10 @@ Uygulama içi veri senkronizasyonu ve performans analizi için Google Firebase, 
 
 5. Veri Silme ve İptal Hakkı:
 Hesap ayarlarınızdan dilediğiniz an tek tıkla 'Uygulama Önbelleğini Temizle' seçeneğini kullanabilir veya 'Hesabımı Sil' butonuna basarak tüm verilerinizi kalıcı olarak silebilirsiniz.
+</h1>
+</body>
+</html>
+
+
+
+
